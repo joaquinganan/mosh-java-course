@@ -1,4 +1,4 @@
-package com.codewithmosh;
+package org.example;
 
 import java.lang.foreign.AddressLayout;
 import java.text.NumberFormat;
