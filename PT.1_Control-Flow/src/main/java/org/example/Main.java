@@ -1,5 +1,6 @@
-package org.example;
+package com.codewithmosh;
 
+import java.lang.foreign.AddressLayout;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
@@ -189,15 +190,15 @@ public class Main {
     }
 
     public static void main() {
-        practice_ComparisonOperators();
-        practice_IfStatements();
-        practice_SwitchStatements();
-        exercise_FizzBuz();
-        practice_ForLoops();
-        practice_WhileLoops();
-        practice_DoWhileLoops();
-        practice_BreakAndContinue();
-        practice_ForEachLoops();
+//        practice_ComparisonOperators();
+//        practice_IfStatements();
+//        practice_SwitchStatements();
+//        exercise_FizzBuz();
+//        practice_ForLoops();
+//        practice_WhileLoops();
+//        practice_DoWhileLoops();
+//        practice_BreakAndContinue();
+//        practice_ForEachLoops();
         exercise_MortgageCalculator();
     }
 
